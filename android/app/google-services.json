@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "666921559182",
+    "project_id": "phone-auth-test-1aa24",
+    "storage_bucket": "phone-auth-test-1aa24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666921559182:android:c33e69b05f9949d49395df",
+        "android_client_info": {
+          "package_name": "com.awesometsproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6p9jBHUtVueH_mShNlZyGfbC4NHvnW5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
